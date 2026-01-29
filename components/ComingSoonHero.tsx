@@ -3,7 +3,7 @@ import { BRAND } from "@/lib/brand";
 
 export default function ComingSoonHero() {
   return (
-    <div className="max-w-4xl mx-auto text-center mb-16 motion-safe:animate-fade-in">
+    <div className="max-w-4xl mx-auto text-center motion-safe:animate-fade-in">
       {/* Logo */}
       <div className="mb-8 flex justify-center">
         <div className="relative w-32 h-32 sm:w-40 sm:h-40 rounded-2xl overflow-hidden shadow-xl">
